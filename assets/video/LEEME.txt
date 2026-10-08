@@ -1,0 +1,18 @@
+VIDEOS DEL SITIO
+================
+Ya están cargados (comprimidos para web desde los Drive del doctor):
+
+  hero.mp4     -> video de portada (luchoalonso02.m4v, 720p sin audio). Solo se carga en computador;
+                  en celular se muestra la foto ../img/doctor/hero-quirofano.jpg para que cargue rápido.
+  reel-1.mp4   -> v0924.mp4          "Mi verdadero trabajo empieza aquí"
+  reel-2.mp4   -> RellsLAlonso.m4v   "En quirófano"
+  reel-3.mp4   -> fibrosis_7.mp4     "¿Fibrosis?"
+  reel-4.mp4   -> explanta_esp.mp4   "Explantación mamaria"
+  reel-5.mp4   -> agenda.mp4         "Agenda tu valoración"
+  reel-6.mp4   -> lacherchita1.mp4   "La Cherchita"
+  reel-7.mp4   -> fibro_pod.mp4      "Fibrosis, en podcast"
+  reel-8.mp4   -> cx_ewnrte.mp4      "¿Por qué Colombia?"
+  posters/     -> imagen que se ve antes de que cargue cada reel
+
+Para cambiar un video, reemplaza el archivo con el mismo nombre.
+Recomendado: reels 540x960 o 720x1280, máximo 4 MB; portada 720p o 1080p, máximo 8 MB, sin audio.
