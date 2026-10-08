@@ -799,3 +799,12 @@ p { margin: 0 0 1em; }
   .hero-full__in { padding-top: calc(62svh - 150px); }
   .hero-full h1 { font-size: 40px; }
 }
+
+/* Sabores del Caribe */
+.food { flex: 0 0 clamp(240px, 24vw, 300px); margin: 0; scroll-snap-align: start; }
+.food img { width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 999px 999px var(--r) var(--r); transition: transform 1s var(--ease); }
+.food:hover img { transform: scale(1.03); }
+.food figcaption { margin-top: 14px; font-size: 14.5px; color: var(--muted); }
+.food figcaption b { display: block; font-family: var(--serif); font-weight: 500; font-size: 25px; color: var(--ink); }
+.mosaic img { width: 100%; height: 100%; object-fit: cover; }
+.credits { font-size: 11.5px; margin-top: 8px; }
